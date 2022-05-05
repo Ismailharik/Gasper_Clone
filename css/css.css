@@ -466,6 +466,7 @@ right: 10px;
 /* Start About  */
 .about{
 
+    padding-top :  var(--section-padding);
 }
 .about .container{
     text-align: center;
