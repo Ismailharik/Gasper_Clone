@@ -857,6 +857,7 @@ right: 10px;
 
 /* Start Footer */
 .footer{
+    margin-top: 70px;
     background-image: url('../images/subscribe.jpg');
     padding-top: 50px;
     padding-bottom: 50px;
