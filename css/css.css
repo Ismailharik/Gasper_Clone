@@ -70,7 +70,7 @@ font-family: 'Work Sans', sans-serif;
     gap: 10;
 }
 .landing {
-    background-image: url(landing.jpg);
+    background-image: url("../images/landing.jpg");
     width: 100%;
     background-size: cover;
     color: #FFF;
@@ -295,7 +295,7 @@ right: 10px;
 
 /* Start Features */
 .features {
-    background-image: url('images/design-features.jpg');
+    background-image: url('../images/design-features.jpg');
     position: relative;
     color: #FFF;
     height: 600px;
@@ -474,7 +474,7 @@ right: 10px;
 
 .about-section {
     position: relative;
-    background-image: url('images/stats.png');
+    background-image: url('../images/stats.png');
     width: 100%;
     background-size: cover;
     padding-top: var(--section-padding);
@@ -852,7 +852,7 @@ right: 10px;
 
 /* Start Footer */
 .footer{
-    background-image: url('images/subscribe.jpg');
+    background-image: url('../images/subscribe.jpg');
     padding-top: 50px;
     padding-bottom: 50px;
     background-size: cover;
